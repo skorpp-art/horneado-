@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Taller de Cerámica",
+  "description": "Una aplicación para profesoras de cerámica para gestionar el registro de alumnas y calcular los costos de horneado de las piezas.",
+  "requestFramePermissions": []
+}
